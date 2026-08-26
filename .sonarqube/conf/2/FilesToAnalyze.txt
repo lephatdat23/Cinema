@@ -1,0 +1,16 @@
+﻿C:\Users\phatd\source\repos\CinemaBookingSystem\Cinema.Booking.API\Controllers\BookingsController.cs
+C:\Users\phatd\source\repos\CinemaBookingSystem\Cinema.Booking.API\Data\AppDbContext.cs
+C:\Users\phatd\source\repos\CinemaBookingSystem\Cinema.Booking.API\Models\BookingTicket.cs
+C:\Users\phatd\source\repos\CinemaBookingSystem\Cinema.Booking.API\Program.cs
+C:\Users\phatd\source\repos\CinemaBookingSystem\Cinema.Booking.API\obj\Debug\net8.0\Cinema.Booking.API.GlobalUsings.g.cs
+C:\Users\phatd\source\repos\CinemaBookingSystem\Cinema.Booking.API\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+C:\Users\phatd\source\repos\CinemaBookingSystem\Cinema.Booking.API\obj\Debug\net8.0\Protos\Pricing.cs
+C:\Users\phatd\source\repos\CinemaBookingSystem\Cinema.Booking.API\obj\Debug\net8.0\Protos\PricingGrpc.cs
+C:\Users\phatd\source\repos\CinemaBookingSystem\Cinema.Booking.API\obj\Debug\net8.0\Cinema.Booking.API.AssemblyInfo.cs
+C:\Users\phatd\source\repos\CinemaBookingSystem\Cinema.Booking.API\obj\Debug\net8.0\Cinema.Booking.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\phatd\source\repos\CinemaBookingSystem\Cinema.Booking.API\appsettings.Development.json
+C:\Users\phatd\source\repos\CinemaBookingSystem\Cinema.Booking.API\appsettings.json
+C:\Users\phatd\source\repos\CinemaBookingSystem\Cinema.Booking.API\Cinema.Booking.API.http
+C:\Users\phatd\source\repos\CinemaBookingSystem\Cinema.Booking.API\Dockerfile
+C:\Users\phatd\source\repos\CinemaBookingSystem\Cinema.Booking.API\Protos\pricing.proto
+C:\Users\phatd\source\repos\CinemaBookingSystem\Cinema.Booking.API\Properties\launchSettings.json

@@ -1,0 +1,11 @@
+m
+dC:\Users\phatd\source\repos\CinemaBookingSystem\Cinema.Booking.API\Controllers\BookingsController.csutf-8`
+WC:\Users\phatd\source\repos\CinemaBookingSystem\Cinema.Booking.API\Data\AppDbContext.csutf-8c
+ZC:\Users\phatd\source\repos\CinemaBookingSystem\Cinema.Booking.API\Models\BookingTicket.csutf-8V
+MC:\Users\phatd\source\repos\CinemaBookingSystem\Cinema.Booking.API\Program.csutf-8É
+xC:\Users\phatd\source\repos\CinemaBookingSystem\Cinema.Booking.API\obj\Debug\net8.0\Cinema.Booking.API.GlobalUsings.g.csutf-8é
+ÇC:\Users\phatd\source\repos\CinemaBookingSystem\Cinema.Booking.API\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8p
+eC:\Users\phatd\source\repos\CinemaBookingSystem\Cinema.Booking.API\obj\Debug\net8.0\Protos\Pricing.csutf-8t
+iC:\Users\phatd\source\repos\CinemaBookingSystem\Cinema.Booking.API\obj\Debug\net8.0\Protos\PricingGrpc.csutf-8Å
+vC:\Users\phatd\source\repos\CinemaBookingSystem\Cinema.Booking.API\obj\Debug\net8.0\Cinema.Booking.API.AssemblyInfo.csutf-8ï
+âC:\Users\phatd\source\repos\CinemaBookingSystem\Cinema.Booking.API\obj\Debug\net8.0\Cinema.Booking.API.MvcApplicationPartsAssemblyInfo.csutf-8

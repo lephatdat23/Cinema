@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option csharp_namespace = "Cinema.Pricing.gRPC.Protos";
+
+package pricing;
+
+service PricingProtoService {
+  rpc CalculateTicketPrice (CalculatePriceRequest) returns (CalculatePriceResponse);
+}
+
+message CalculatePriceRequest {
+  string seat_type = 1;
+  double base_price = 2;
+  bool is_weekend = 3;
+}
+
+message CalculatePriceResponse {
+  double final_price = 1;
+}

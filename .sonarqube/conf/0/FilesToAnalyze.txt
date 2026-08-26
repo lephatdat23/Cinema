@@ -1,0 +1,9 @@
+﻿C:\Users\phatd\source\repos\CinemaBookingSystem\Cinema.Notification.Worker\Program.cs
+C:\Users\phatd\source\repos\CinemaBookingSystem\Cinema.Notification.Worker\Worker.cs
+C:\Users\phatd\source\repos\CinemaBookingSystem\Cinema.Notification.Worker\obj\Debug\net8.0\Cinema.Notification.Worker.GlobalUsings.g.cs
+C:\Users\phatd\source\repos\CinemaBookingSystem\Cinema.Notification.Worker\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+C:\Users\phatd\source\repos\CinemaBookingSystem\Cinema.Notification.Worker\obj\Debug\net8.0\Cinema.Notification.Worker.AssemblyInfo.cs
+C:\Users\phatd\source\repos\CinemaBookingSystem\Cinema.Notification.Worker\appsettings.Development.json
+C:\Users\phatd\source\repos\CinemaBookingSystem\Cinema.Notification.Worker\appsettings.json
+C:\Users\phatd\source\repos\CinemaBookingSystem\Cinema.Notification.Worker\Dockerfile
+C:\Users\phatd\source\repos\CinemaBookingSystem\Cinema.Notification.Worker\Properties\launchSettings.json

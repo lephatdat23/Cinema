@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Dockerfile/">
+    <File Path="docker-compose.yml" />
+  </Folder>
+  <Project Path="Cinema.Booking.API/Cinema.Booking.API.csproj" />
+  <Project Path="Cinema.Notification.Worker/Cinema.Notification.Worker.csproj" />
+  <Project Path="Cinema.Pricing.gRPC/Cinema.Pricing.gRPC.csproj" />
+</Solution>

@@ -1,0 +1,176 @@
+{
+  "scannerProperties": [
+    {
+      "key": "sonar.scanner.app",
+      "value": "ScannerMSBuild"
+    },
+    {
+      "key": "sonar.scanner.appVersion",
+      "value": "11.2.1"
+    },
+    {
+      "key": "sonar.scanner.bootstrapStartTime",
+      "value": "1787720172000"
+    },
+    {
+      "key": "sonar.projectKey",
+      "value": "CinemaMicroservices"
+    },
+    {
+      "key": "sonar.working.directory",
+      "value": "C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\.sonarqube\\out\\.sonar"
+    },
+    {
+      "key": "sonar.projectBaseDir",
+      "value": "C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem"
+    },
+    {
+      "key": "sonar.pullrequest.cache.basepath",
+      "value": "C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem"
+    },
+    {
+      "key": "sonar.sources",
+      "value": "C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\.vs\\CinemaBookingSystem.slnx\\v18\\DocumentLayout.backup.json,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\.vs\\CinemaBookingSystem.slnx\\v18\\DocumentLayout.json,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\docker-compose.yml"
+    },
+    {
+      "key": "sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "sonar.modules",
+      "value": "002A7D58-A1B1-CBE3-8F7A-0F0027BEE5A6,69D4494C-7D44-AE4E-8C0B-6DF71A7A42E4,9E301E66-1B49-BE1B-F5E4-A6F25AE7F0E1"
+    },
+    {
+      "key": "002A7D58-A1B1-CBE3-8F7A-0F0027BEE5A6.sonar.projectKey",
+      "value": "CinemaMicroservices:002A7D58-A1B1-CBE3-8F7A-0F0027BEE5A6"
+    },
+    {
+      "key": "002A7D58-A1B1-CBE3-8F7A-0F0027BEE5A6.sonar.projectName",
+      "value": "Cinema.Notification.Worker"
+    },
+    {
+      "key": "002A7D58-A1B1-CBE3-8F7A-0F0027BEE5A6.sonar.projectBaseDir",
+      "value": "C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Notification.Worker"
+    },
+    {
+      "key": "002A7D58-A1B1-CBE3-8F7A-0F0027BEE5A6.sonar.working.directory",
+      "value": "C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\.sonarqube\\out\\.sonar\\mod0"
+    },
+    {
+      "key": "002A7D58-A1B1-CBE3-8F7A-0F0027BEE5A6.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "002A7D58-A1B1-CBE3-8F7A-0F0027BEE5A6.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "002A7D58-A1B1-CBE3-8F7A-0F0027BEE5A6.sonar.sources",
+      "value": "C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Notification.Worker\\Program.cs,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Notification.Worker\\Worker.cs,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Notification.Worker\\obj\\Debug\\net8.0\\Cinema.Notification.Worker.GlobalUsings.g.cs,\"C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Notification.Worker\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs\",C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Notification.Worker\\obj\\Debug\\net8.0\\Cinema.Notification.Worker.AssemblyInfo.cs,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Notification.Worker\\appsettings.Development.json,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Notification.Worker\\appsettings.json,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Notification.Worker\\Dockerfile,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Notification.Worker\\Properties\\launchSettings.json,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Notification.Worker\\obj\\Cinema.Notification.Worker.csproj.nuget.dgspec.json,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Notification.Worker\\obj\\project.assets.json,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Notification.Worker\\bin\\Debug\\net8.0\\appsettings.Development.json,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Notification.Worker\\bin\\Debug\\net8.0\\appsettings.json,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Notification.Worker\\bin\\Debug\\net8.0\\Cinema.Notification.Worker.deps.json,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Notification.Worker\\bin\\Debug\\net8.0\\Cinema.Notification.Worker.runtimeconfig.json"
+    },
+    {
+      "key": "002A7D58-A1B1-CBE3-8F7A-0F0027BEE5A6.sonar.cs.analyzer.projectOutPaths",
+      "value": "C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\.sonarqube\\out\\0"
+    },
+    {
+      "key": "002A7D58-A1B1-CBE3-8F7A-0F0027BEE5A6.sonar.cs.roslyn.reportFilePaths",
+      "value": "C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\.sonarqube\\out\\0\\Issues.json"
+    },
+    {
+      "key": "002A7D58-A1B1-CBE3-8F7A-0F0027BEE5A6.sonar.cs.scanner.telemetry",
+      "value": "C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\.sonarqube\\out\\0\\Telemetry.json"
+    },
+    {
+      "key": "69D4494C-7D44-AE4E-8C0B-6DF71A7A42E4.sonar.projectKey",
+      "value": "CinemaMicroservices:69D4494C-7D44-AE4E-8C0B-6DF71A7A42E4"
+    },
+    {
+      "key": "69D4494C-7D44-AE4E-8C0B-6DF71A7A42E4.sonar.projectName",
+      "value": "Cinema.Pricing.gRPC"
+    },
+    {
+      "key": "69D4494C-7D44-AE4E-8C0B-6DF71A7A42E4.sonar.projectBaseDir",
+      "value": "C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Pricing.gRPC"
+    },
+    {
+      "key": "69D4494C-7D44-AE4E-8C0B-6DF71A7A42E4.sonar.working.directory",
+      "value": "C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\.sonarqube\\out\\.sonar\\mod1"
+    },
+    {
+      "key": "69D4494C-7D44-AE4E-8C0B-6DF71A7A42E4.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "69D4494C-7D44-AE4E-8C0B-6DF71A7A42E4.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "69D4494C-7D44-AE4E-8C0B-6DF71A7A42E4.sonar.sources",
+      "value": "C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Pricing.gRPC\\appsettings.Development.json,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Pricing.gRPC\\appsettings.json,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Pricing.gRPC\\Dockerfile,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Pricing.gRPC\\obj\\Cinema.Pricing.gRPC.csproj.nuget.dgspec.json,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Pricing.gRPC\\obj\\project.assets.json,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Pricing.gRPC\\Properties\\launchSettings.json,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Pricing.gRPC\\bin\\Debug\\net8.0\\appsettings.Development.json,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Pricing.gRPC\\bin\\Debug\\net8.0\\appsettings.json,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Pricing.gRPC\\bin\\Debug\\net8.0\\Cinema.Pricing.gRPC.deps.json,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Pricing.gRPC\\bin\\Debug\\net8.0\\Cinema.Pricing.gRPC.runtimeconfig.json,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Pricing.gRPC\\bin\\Debug\\net8.0\\Cinema.Pricing.gRPC.staticwebassets.endpoints.json,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Pricing.gRPC\\obj\\Debug\\net8.0\\rjsmcshtml.dswa.cache.json,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Pricing.gRPC\\obj\\Debug\\net8.0\\rjsmrazor.dswa.cache.json,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Pricing.gRPC\\obj\\Debug\\net8.0\\rpswa.dswa.cache.json,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Pricing.gRPC\\obj\\Debug\\net8.0\\staticwebassets.build.endpoints.json,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Pricing.gRPC\\obj\\Debug\\net8.0\\staticwebassets.build.json,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Pricing.gRPC\\Program.cs,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Pricing.gRPC\\Services\\PricingService.cs,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Pricing.gRPC\\obj\\Debug\\net8.0\\Cinema.Pricing.gRPC.GlobalUsings.g.cs,\"C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Pricing.gRPC\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs\",C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Pricing.gRPC\\obj\\Debug\\net8.0\\Protos\\Pricing.cs,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Pricing.gRPC\\obj\\Debug\\net8.0\\Protos\\PricingGrpc.cs,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Pricing.gRPC\\obj\\Debug\\net8.0\\Cinema.Pricing.gRPC.AssemblyInfo.cs,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Pricing.gRPC\\Protos\\pricing.proto"
+    },
+    {
+      "key": "69D4494C-7D44-AE4E-8C0B-6DF71A7A42E4.sonar.cs.analyzer.projectOutPaths",
+      "value": "C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\.sonarqube\\out\\1"
+    },
+    {
+      "key": "69D4494C-7D44-AE4E-8C0B-6DF71A7A42E4.sonar.cs.roslyn.reportFilePaths",
+      "value": "C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\.sonarqube\\out\\1\\Issues.json"
+    },
+    {
+      "key": "69D4494C-7D44-AE4E-8C0B-6DF71A7A42E4.sonar.cs.scanner.telemetry",
+      "value": "C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\.sonarqube\\out\\1\\Telemetry.json"
+    },
+    {
+      "key": "9E301E66-1B49-BE1B-F5E4-A6F25AE7F0E1.sonar.projectKey",
+      "value": "CinemaMicroservices:9E301E66-1B49-BE1B-F5E4-A6F25AE7F0E1"
+    },
+    {
+      "key": "9E301E66-1B49-BE1B-F5E4-A6F25AE7F0E1.sonar.projectName",
+      "value": "Cinema.Booking.API"
+    },
+    {
+      "key": "9E301E66-1B49-BE1B-F5E4-A6F25AE7F0E1.sonar.projectBaseDir",
+      "value": "C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Booking.API"
+    },
+    {
+      "key": "9E301E66-1B49-BE1B-F5E4-A6F25AE7F0E1.sonar.working.directory",
+      "value": "C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\.sonarqube\\out\\.sonar\\mod2"
+    },
+    {
+      "key": "9E301E66-1B49-BE1B-F5E4-A6F25AE7F0E1.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "9E301E66-1B49-BE1B-F5E4-A6F25AE7F0E1.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "9E301E66-1B49-BE1B-F5E4-A6F25AE7F0E1.sonar.sources",
+      "value": "C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Booking.API\\appsettings.Development.json,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Booking.API\\appsettings.json,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Booking.API\\Dockerfile,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Booking.API\\obj\\Cinema.Booking.API.csproj.nuget.dgspec.json,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Booking.API\\obj\\project.assets.json,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Booking.API\\Properties\\launchSettings.json,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Booking.API\\bin\\Debug\\net8.0\\appsettings.Development.json,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Booking.API\\bin\\Debug\\net8.0\\appsettings.json,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Booking.API\\bin\\Debug\\net8.0\\Cinema.Booking.API.deps.json,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Booking.API\\bin\\Debug\\net8.0\\Cinema.Booking.API.runtimeconfig.json,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Booking.API\\bin\\Debug\\net8.0\\Cinema.Booking.API.staticwebassets.endpoints.json,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Booking.API\\obj\\Debug\\net8.0\\rjsmcshtml.dswa.cache.json,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Booking.API\\obj\\Debug\\net8.0\\rjsmrazor.dswa.cache.json,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Booking.API\\obj\\Debug\\net8.0\\rpswa.dswa.cache.json,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Booking.API\\obj\\Debug\\net8.0\\staticwebassets.build.endpoints.json,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Booking.API\\obj\\Debug\\net8.0\\staticwebassets.build.json,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Booking.API\\Controllers\\BookingsController.cs,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Booking.API\\Data\\AppDbContext.cs,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Booking.API\\Models\\BookingTicket.cs,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Booking.API\\Program.cs,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Booking.API\\obj\\Debug\\net8.0\\Cinema.Booking.API.GlobalUsings.g.cs,\"C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Booking.API\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs\",C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Booking.API\\obj\\Debug\\net8.0\\Protos\\Pricing.cs,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Booking.API\\obj\\Debug\\net8.0\\Protos\\PricingGrpc.cs,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Booking.API\\obj\\Debug\\net8.0\\Cinema.Booking.API.AssemblyInfo.cs,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Booking.API\\obj\\Debug\\net8.0\\Cinema.Booking.API.MvcApplicationPartsAssemblyInfo.cs,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Booking.API\\Cinema.Booking.API.http,C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\Cinema.Booking.API\\Protos\\pricing.proto"
+    },
+    {
+      "key": "9E301E66-1B49-BE1B-F5E4-A6F25AE7F0E1.sonar.cs.analyzer.projectOutPaths",
+      "value": "C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\.sonarqube\\out\\2"
+    },
+    {
+      "key": "9E301E66-1B49-BE1B-F5E4-A6F25AE7F0E1.sonar.cs.roslyn.reportFilePaths",
+      "value": "C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\.sonarqube\\out\\2\\Issues.json"
+    },
+    {
+      "key": "9E301E66-1B49-BE1B-F5E4-A6F25AE7F0E1.sonar.cs.scanner.telemetry",
+      "value": "C:\\Users\\phatd\\source\\repos\\CinemaBookingSystem\\.sonarqube\\out\\2\\Telemetry.json"
+    },
+    {
+      "key": "sonar.login",
+      "value": "***"
+    },
+    {
+      "key": "sonar.host.url",
+      "value": "http://localhost:9000"
+    },
+    {
+      "key": "sonar.visualstudio.enable",
+      "value": "false"
+    }
+  ]
+}

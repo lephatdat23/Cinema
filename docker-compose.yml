@@ -1,0 +1,76 @@
+version: '3.8'
+
+services:
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: cinema-sqlserver
+    environment:
+      - SA_PASSWORD=Password123!
+      - ACCEPT_EULA=Y
+    ports:
+      - "1433:1433"
+    networks:
+      - cinema-network
+  
+  sonarqube:
+    image: sonarqube:lts-community
+    container_name: cinema-sonarqube
+    ports:
+      - "9000:9000"
+    networks:
+      - cinema-network
+
+  redis:
+    image: redis:alpine
+    container_name: cinema-redis
+    ports:
+      - "6379:6379"
+    networks:
+      - cinema-network
+
+  pricing.grpc:
+    build:
+      context: .
+      dockerfile: Cinema.Pricing.gRPC/Dockerfile
+    container_name: cinema-pricing-grpc
+    environment:
+      - ASPNETCORE_URLS=http://+:80
+    ports:
+      - "5001:80"
+    networks:
+      - cinema-network
+
+  booking.api:
+    build:
+      context: .
+      dockerfile: Cinema.Booking.API/Dockerfile
+    container_name: cinema-booking-api
+    ports:
+      - "5000:80"
+    environment:
+      - ASPNETCORE_URLS=http://+:80
+      - ConnectionStrings__DefaultConnection=Server=sqlserver,1433;Database=CinemaDb;User Id=sa;Password=Password123!;TrustServerCertificate=True;Encrypt=False;
+      - ConnectionStrings__Redis=redis:6379
+      - GrpcSettings__PricingUrl=http://cinema-pricing-grpc:80
+    depends_on:
+      - sqlserver
+      - redis
+      - pricing.grpc
+    networks:
+      - cinema-network
+
+  notification.worker:
+    build:
+      context: .
+      dockerfile: Cinema.Notification.Worker/Dockerfile
+    container_name: cinema-notification-worker
+    environment:
+      - ConnectionStrings__Redis=redis:6379
+    depends_on:
+      - redis
+    networks:
+      - cinema-network
+
+networks:
+  cinema-network:
+    driver: bridge
